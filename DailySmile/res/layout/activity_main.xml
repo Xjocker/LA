@@ -21,8 +21,8 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="160"
-        android:layout_height="160"
+        android:layout_width="160dip"
+        android:layout_height="160dip"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="155dp"
